@@ -48,6 +48,8 @@ and on Windows
 
 `java -cp .;junit-4.XX.jar;hamcrest-core-1.3.jar org.junit.runner.JUnitCore CalculatorTest`
 
+---
+
 ###**step 6:The output is**
 
 ```JUnit version 4.12
